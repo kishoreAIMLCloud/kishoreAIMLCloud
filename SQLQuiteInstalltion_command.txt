@@ -1,0 +1,3 @@
+Setup.exe /ConfigurationFile="c:\PowerShell\SQL2012-Quiet-UTF8.ini" /Q
+
+
